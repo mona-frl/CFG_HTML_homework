@@ -1,7 +1,9 @@
 # CFG Homework - HTML
 
-## Create a single HTML site including the following elements.
-```<header>...</header>
+## Create a single HTML site including the following elements
+
+```text
+<header>...</header>
 <nav>...</nav>
 <ul>...</ul> and / or <ol>...</ol>
 <a>
@@ -14,7 +16,8 @@
 ```
 
 ## Create the second page so it contains the following elements, and link the two pages together
-```
+
+```text
 <video>...</video> or <iframe>
 <table>...</table>
 ```
